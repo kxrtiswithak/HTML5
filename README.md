@@ -22,3 +22,4 @@ What is the target audience?
 
     No programming background is assumed just a zeal to learn
 
+Link to course: https://www.udemy.com/learn-html5-programming-from-scratch/
