@@ -1,0 +1,1 @@
+Titled 'HTML - Continued' within the course, these esxercises helped me to build upon the foundations of what I had learnt within the previous section, learning about CSS, building webpages, and ultimately bring it altogether in one website.
