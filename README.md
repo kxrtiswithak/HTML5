@@ -9,19 +9,19 @@ This is the complete HTML5 course you will need to get you started with HTML5 ap
 
 ### What are the requirements?
 
-- Any HTML editor and HTML5 compatible web browser
+-   Any HTML editor and HTML5 compatible web browser
 
 ### What am I going to get from this course?
 
-- By the end of the course you will be able to create full fledged HTML5 websites
-    - You will be able to use features like Drag and Drop, Geo location and Web Storage to create immersible user experience.
-    - You will have through understanding of both HTML and CSS
-    - You will be able to create web applications for mobile phones as well
+-   By the end of the course you will be able to create full fledged HTML5 websites
+  -   You will be able to use features like Drag and Drop, Geo location and Web Storage to create immersible user experience.
+  -   You will have through understanding of both HTML and CSS
+  -   You will be able to create web applications for mobile phones as well
 
 ### What is the target audience?
 
-- No programming background is assumed just a zeal to learn
+-   No programming background is assumed just a zeal to learn
 
 ### Link to course:
 
-- __*[Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)*__
+-   __*[Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)*__
